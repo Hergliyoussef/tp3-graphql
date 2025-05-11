@@ -113,14 +113,6 @@ mutation {
 
 ## 🧑‍💻 Auteur
 
-**Nom :** Wassim  
-**Projet encadré par :** Dr. Salah Gontara  
+**Nom :** hergli youssef 
 **Année universitaire :** 2024 / 2025  
 **Module :** SOA & Microservices
-
----
-
-## 🐙 Dépôt GitHub
-
-👉 [Lien à venir après publication]
-
